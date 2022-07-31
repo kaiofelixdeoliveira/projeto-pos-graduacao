@@ -76,16 +76,16 @@ armazenar algum tipo de informação.
 
 ## 📜 Prova de Conceito (PoC) ##
 
-Integrações entre Componentes
+🏻 Integrações entre Componentes
 
-* Mock Wireframes :
+* 👉 Mock Wireframes :
 
-* Front-end
+* 🎨 Front-end
 
 https://www.figma.com/proto/TABuc5qkiP2NoLlyoeRhFi/One-Message?node-id=27%3A3188&scaling=min-zoom&page-id=4%3A730&starting-point-node-id=27%3A1392
 
-* Mock API:
-* Back-end
+* 👉 Mock API:
+* 🛠 Back-end
 
 https://app.swaggerhub.com/apis-docs/onemessage/message/1.0.0
 
@@ -95,7 +95,7 @@ https://app.swaggerhub.com/apis-docs/onemessage/approval/1.0.0
 
 https://app.swaggerhub.com/apis-docs/onemessage/subscribe/1.0.0
 
-## 🔢🧶 Vídeo de apresentação final Completo ##
+## 🔢 🧶 Vídeo de apresentação final Completo ##
 
 https://www.canva.com/design/DAE0gkQfJ1w/eqkxwSrlljh9L0RcsS3V2g/watch?utm_content=DAE0gkQfJ1w&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 
@@ -103,4 +103,4 @@ https://www.canva.com/design/DAE0gkQfJ1w/eqkxwSrlljh9L0RcsS3V2g/watch?utm_conten
 
 ## 📺 Saiba Mais ##
 
-* 💥[Documentção](https://docs.google.com/document/d/1ulTZisPwW6xXVLBVsH3wfujLCOtNbV4T/edit?usp=sharing&ouid=102321577832590230807&rtpof=true&sd=true)
+* 💥 [Documentação](https://docs.google.com/document/d/1ulTZisPwW6xXVLBVsH3wfujLCOtNbV4T/edit?usp=sharing&ouid=102321577832590230807&rtpof=true&sd=true)
