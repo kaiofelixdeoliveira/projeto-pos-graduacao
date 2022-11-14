@@ -85,7 +85,7 @@ armazenar algum tipo de informação.
 https://www.figma.com/proto/TABuc5qkiP2NoLlyoeRhFi/One-Message?node-id=27%3A3188&scaling=min-zoom&page-id=4%3A730&starting-point-node-id=27%3A1392
 
 * 👉 Mock API:
-* 🛠 Back-end
+* 🛠 Back-end:
 
 https://app.swaggerhub.com/apis-docs/onemessage/message/1.0.0
 
